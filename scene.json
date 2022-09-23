@@ -1,0 +1,33 @@
+{
+  "display": {
+    "title": "Fashionista.",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "author-name",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": ["0,0", "0,1", "1,0", "1,1"],
+    "base": "0,0"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "c3796bb9-4920-40e5-88a7-e94a9d02969c",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  "requiredPermissions": ["ALLOW_TO_TRIGGER_AVATAR_EMOTE"]
+}
